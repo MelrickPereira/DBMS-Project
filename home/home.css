@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(197, 244, 255);
+    /* background-image:url('../resources/carpic.jpg');     */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+ 
+}
+.dealers
+{
+    
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+a:hover
+{
+    color: rgb(12, 176, 252);
+}
+button:hover
+{
+    background-color: aquamarine;
+}
+button
+{
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+}
+.Dealer_details
+{
+   
+    display: flex;
+    flex-direction: column;
+    
+    color: rgb(0, 0, 0);
+}
+.item
+{
+    margin: 6px;
+}
